@@ -1,0 +1,16 @@
+C:\Users\marti\Downloads\Football\bin\Debug\net5.0\Football.exe
+C:\Users\marti\Downloads\Football\bin\Debug\net5.0\Football.deps.json
+C:\Users\marti\Downloads\Football\bin\Debug\net5.0\Football.runtimeconfig.json
+C:\Users\marti\Downloads\Football\bin\Debug\net5.0\Football.runtimeconfig.dev.json
+C:\Users\marti\Downloads\Football\bin\Debug\net5.0\Football.dll
+C:\Users\marti\Downloads\Football\bin\Debug\net5.0\Football.pdb
+C:\Users\marti\Downloads\Football\obj\Debug\net5.0\Football.csproj.AssemblyReference.cache
+C:\Users\marti\Downloads\Football\obj\Debug\net5.0\Football.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marti\Downloads\Football\obj\Debug\net5.0\Football.AssemblyInfoInputs.cache
+C:\Users\marti\Downloads\Football\obj\Debug\net5.0\Football.AssemblyInfo.cs
+C:\Users\marti\Downloads\Football\obj\Debug\net5.0\Football.csproj.CoreCompileInputs.cache
+C:\Users\marti\Downloads\Football\obj\Debug\net5.0\Football.dll
+C:\Users\marti\Downloads\Football\obj\Debug\net5.0\refint\Football.dll
+C:\Users\marti\Downloads\Football\obj\Debug\net5.0\Football.pdb
+C:\Users\marti\Downloads\Football\obj\Debug\net5.0\Football.genruntimeconfig.cache
+C:\Users\marti\Downloads\Football\obj\Debug\net5.0\ref\Football.dll
